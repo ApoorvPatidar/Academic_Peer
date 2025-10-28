@@ -1,6 +1,0 @@
-.env
-__pycache__
-data/pdfs/
-data/parsed_text/
-data/results
-uploads
